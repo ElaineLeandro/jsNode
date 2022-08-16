@@ -1,3 +1,10 @@
+/** Numbers: aritimética 
+ * 
+ * Operação Mais feita com os números em Js
+ * 
+ */
+
+
 console.log( typeof (5 + 5));
 console.log(10 - 5);
 console.log(4 * 2);
